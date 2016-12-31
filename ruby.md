@@ -14,6 +14,7 @@ Some recommended reading for Ruby, organised by the format of the text.
 #Website
 * [Ruby Koans](rubykoans.com)
 * [Ruby Docs](http://ruby-doc.org/)
+* [Ruby Monstas](http://ruby-for-beginners.rubymonstas.org/index.html)
 
 
 #Other
