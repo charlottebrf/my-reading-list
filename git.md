@@ -11,3 +11,4 @@ Git it: https://github.com/jlord/git-it
 Learning git branches: http://learngitbranching.js.org/
 Git immersion: http://gitimmersion.com/
 Basics of Git: https://www.youtube.com/watch?v=HVsySz-h9r4
+GitHub glossary:  https://help.github.com/articles/github-glossary/#repository
